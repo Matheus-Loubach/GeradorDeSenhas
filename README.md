@@ -18,6 +18,6 @@ Gerador de Senhas com Interface.
 
 #Create by: 
 <div> 
-  <p><a href="https://github.com/Matheus-Loubach">Matheus Loubach</a></p>
-  <p><a href="https://github.com/Ivan-ReisDev">Ivan Reis</a></p>
+ <span><a href=" https://github.com/Matheus-Loubach">Matheus Loubach / </a></span>
+  <span><a href="https://github.com/Ivan-ReisDev">Ivan Reis</a></span>
 </div>
