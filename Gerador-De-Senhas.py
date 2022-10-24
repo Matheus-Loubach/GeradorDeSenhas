@@ -58,7 +58,7 @@ class Application:
             senha = np.random.choice(list(algoritimo),tamanhoSenha)
             self.mensagem["text"] = ''.join(senha)
          else:
-             self.mensagem["text"] = "Somente maiores que 10 e menos que 100"
+             self.mensagem["text"] = "Min 10 de Tamanho / Max 100 de Tamanho"
         except ValueError:
          self.mensagem["text"] = "Somente números"
 
